@@ -31,6 +31,8 @@ fig <- fig %>% layout(
 fig
 
 ## networkD3 library
+## 색이 자동으로 나눠짐
+
 install.packages('networkD3')
 library(networkD3)
 library(dplyr)
